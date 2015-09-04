@@ -3,7 +3,8 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+	  "id":"CPV"
+      "properties": {"name":"Cape Verde"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
